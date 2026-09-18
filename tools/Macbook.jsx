@@ -187,7 +187,7 @@ export default function TelemetryCards({
       <div className="glass-effect-2" style={{ flex: "1 1 220px", padding: 12, minWidth: 0, minHeight: 0 }}>
         <div style={{ display: "flex", gap: 12, alignItems: "center" }}>
           <img
-            src="/macbook.png"
+            src="/macbook/macbook.png"
             alt="device"
             style={{
               width: 72,

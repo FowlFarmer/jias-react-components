@@ -111,7 +111,7 @@ export default function SpotifyNowPlayingWithBar() {
       name: "Local Preview",
       duration_ms: 180000,
       artists: [{ name: "Local Artist" }],
-      album: { images: [{ url: "/favicon.png" }] },
+      album: { images: [{ url: "/site/favicon.png" }] },
       external_urls: { spotify: "#" },
     },
     raw: {},
